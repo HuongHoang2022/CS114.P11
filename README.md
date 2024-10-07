@@ -12,4 +12,5 @@
 ## Thông tin sinh viên 
 * **Họ tên:** Hoàng Thị Thu Hường
 * **MSSV:** 22520530
+* **Khoa:** Khoa học máy tính
 * **Email:** 22520530@gm.uit.edu.vn
