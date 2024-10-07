@@ -1,16 +1,20 @@
 # CS114.P11
 ## Giới thiệu môn học 
 * **Tên môn học:** Máy học
-
 * **Mã môn học:** CS114
-
 * **Mã lớp:** CS114.P11
-
 * **Học kì:** I
-
+* **Giảng viên hướng dẫn:**
+PGS.TS. Lê Đình Duy & ThS. Phan Nguyễn Trường An
 * **Năm học:** 2024-2025
 ## Thông tin sinh viên 
 * **Họ tên:** Hoàng Thị Thu Hường
 * **MSSV:** 22520530
 * **Khoa:** Khoa học máy tính
 * **Email:** 22520530@gm.uit.edu.vn
+
+## Link kết nối google colab
+
+## Quá trình môn học
+
+
