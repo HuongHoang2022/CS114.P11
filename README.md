@@ -5,7 +5,7 @@
 * **Mã lớp:** CS114.P11
 * **Học kì:** I
 * **Năm học:** 2024-2025
-## Giảng viên hướng dẫn:
+## Giảng viên hướng dẫn
 |Họ tên| Email|
 |------|------|
 |PGS.TS. Lê Đình Duy|duydl@uit.edu.vn|
