@@ -10,14 +10,12 @@
 |------|------|
 |PGS.TS. Lê Đình Duy|duydl@uit.edu.vn|
 |ThS. Phan Nguyễn Trường An|truonganpn@uit.edu.vn
-## Thông tin sinh viên 
-* **Họ tên:** Hoàng Thị Thu Hường
-* **MSSV:** 22520530
-* **Khoa:** Khoa học máy tính
-* **Email:** 22520530@gm.uit.edu.vn
-
-## Link kết nối google colab
-
-## Quá trình môn học
+## Thông tin nhóm 
+|Họ tên|MSSV|Email|
+|------|----|-----|
+|Cáp Thị Mỹ Duyên|22520348|22520348@gm.uit.edu.vn|
+|Hoàng Thị Thu Hường|22520530|22520530@gm.uit.edu.vn|
+|Nguyễn Thị Lý|22520837|22520837@gm.uit.edu.vn|
+## Đồ án
 
 
